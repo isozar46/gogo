@@ -1,4 +1,3 @@
-﻿   <script type="text/javascript">
           var sTime = new Date().getTime();
 
     var countDown = 10; // Number of seconds to count down from.        
@@ -45,4 +44,3 @@
       setTimeout(function(){
     document.getElementById('aap').className = 'waa';
 }, 10000);
-    </script>
